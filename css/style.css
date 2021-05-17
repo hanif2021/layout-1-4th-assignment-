@@ -1,0 +1,61 @@
+*{
+margin:0;
+}
+.title {
+background-color: bisque;
+text-align:center;
+height: 100px;;
+}
+.title h1 {
+
+}
+.banner {
+background-color: blue;
+height: 250px;
+text-align: center;
+}
+.content{
+overflow: hidden;
+}
+.left_content{
+    background-color: darkkhaki;
+    height: 150px;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+.right_content{
+    background-color: violet;
+    height: 150px;
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+.iteam{
+overflow: hidden;
+}
+.iteam_one{
+background-color: yellow;
+height: 110px;
+width: 33.33%;
+text-align: center;
+float: left;
+}
+.iteam_two{
+background-color: slategrey;
+height: 110px;
+width: 33.33%;
+text-align: center;
+float: left;
+}
+.team_three{
+background-color: tomato;
+height: 110px;
+width: 33.33%;
+float:right;
+}
+.footer{
+background-color: turquoise;
+height: 100px;
+text-align:center;
+}
